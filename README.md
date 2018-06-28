@@ -1,4 +1,3 @@
-/* # convertToMarkdown Convert Google Doc to Markdown */
 /*
 Usage: 
   Adding this script to your doc: 
